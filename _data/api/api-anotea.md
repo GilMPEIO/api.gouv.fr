@@ -1,6 +1,6 @@
 ---
 title: API Anotéa
-tagline: Accéder aux avis et notes sur les formations professionnelles
+tagline: Accédez aux informations renseignées par les recruteurs sur leur page entreprise du site Pôle emploi
 producer: pole-emploi
 category: Public
 is_open: 0 # -1 means API not open
