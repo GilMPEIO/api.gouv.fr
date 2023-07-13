@@ -1,6 +1,6 @@
 ---
 title: Offres d'emploi
-tagline: Accédez aux offres d'emploi disponibles sur pole-emploi.fr
+tagline: Accédez aux offres d'emploi disponibles sur pole-emploi.fr 
 producer: pole-emploi
 category: Public
 is_open: 0 # -1 means API not open
@@ -15,7 +15,7 @@ contact_link: support@pole-emploi.io
 doc_tech_external: https://pole-emploi.io/data/api/offres-emploi
 themes:
   - Emploi
-visits_2019: 1227
+visits_2019: 20000
 last_update: 14/11/2019
 ---
 
