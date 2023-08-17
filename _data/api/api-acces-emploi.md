@@ -1,5 +1,5 @@
 ---
-title: API Accès à l'emploi
+title: API Accès à l'emploi des demandeurs d'emploi
 tagline: Accédez aux taux d’accès à l’emploi par métier recherché et par territoire
 producer: pole-emploi
 category: Public
