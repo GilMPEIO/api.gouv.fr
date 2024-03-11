@@ -1,23 +1,23 @@
 ---
 title: API La Bonne Boite
 tagline: Récupérez la liste des entreprises classées par potentiel d'embauche
-producer: pole-emploi
+producer: France Travail
 is_open: 0 # -1 means API not open
-account_link: https://pole-emploi.io/inscription
-external_site: https://pole-emploi.io/data/api
+account_link: https://francetravail.io/inscription
+external_site: https://francetravail.io/data/api
 partners:
-  - Pôle emploi
+  - France Travail
   - La Bonne Boite
 keywords:
-  - Pôle emploi
+  - France Travail
   - Travail
   - Emploi
   - La Bonne Boite
   - Embauche
   - Entreprise
   - Recrutement
-contact_link: support@pole-emploi.io
-doc_tech_external: https://pole-emploi.io/data/api/bonne-boite
+contact_link: contact@pole-emploi.io
+doc_tech_external: https://francetravail.io/data/api/bonne-boite
 themes:
   - Emploi
 visits_2019: 2397
