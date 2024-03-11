@@ -1,7 +1,7 @@
 ---
 title: API Marché du travail
 tagline: Evaluer la situation de l'emploi sur un territoire - tensions, métiers, dynamique
-producer: pole-emploi
+producer: France Travail
 category: Public
 is_open: 0 # -1 means API not open
 account_link: https://francetravail.io/login
@@ -17,7 +17,7 @@ keywords:
   - CCMSA
   - Mobilité professionnelle
   - Territoires
-contact_link: support@pole-emploi.io
+contact_link: contact@pole-emploi.io
 doc_tech_external: https://francetravail.io/data/api/marche-travail
 datagouv_uuid:
   - 593156ff88ee38351b503df3
