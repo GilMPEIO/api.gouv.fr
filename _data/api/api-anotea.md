@@ -1,13 +1,13 @@
 ---
 title: API Anotéa
 tagline: Accéder aux avis et notes sur les formations professionnelles
-producer: pole-emploi
+producer: France Travail
 category: Public
 is_open: 0 # -1 means API not open
-account_link: https://pole-emploi.io/inscription
-external_site: https://pole-emploi.io/data/api
+account_link: https://francetravail.io/inscription
+external_site: https://francetravail.io/data/api
 partners:
-  - Pôle emploi
+  - France Travail
 keywords:
   - Formation
   - Emploi
@@ -16,8 +16,8 @@ keywords:
   - Notation
   - Avis
   - Stagiaires
-contact_link: support@pole-emploi.io
-doc_tech_external: https://pole-emploi.io/data/api/anotea
+contact_link: contact@pole-emploi.io
+doc_tech_external: https://francetravail.io/data/api/anotea
 themes:
   - Emploi
   - Education
@@ -25,7 +25,8 @@ visits_2019: 500
 last_update: 02/08/2021
 ---
 
-Anotéa permet aux stagiaires de formations professionnelles de noter leur formation.
+Anotéa permet aux stagiaires de formations professionnelles de noter leur formation. Elle est aussi
+disponible en Widget. https://francetravail.io/data/api/widget-anotea
 
 - Plus de **12 000 organismes** évalués par les stagiaires,
 - Plus de **546 000 avis** recueillis,
