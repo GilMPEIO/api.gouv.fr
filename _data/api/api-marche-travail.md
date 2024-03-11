@@ -4,8 +4,8 @@ tagline: Evaluer la situation de l'emploi sur un territoire - tensions, métiers
 producer: pole-emploi
 category: Public
 is_open: 0 # -1 means API not open
-account_link: https://pole-emploi.io/login
-external_site: https://pole-emploi.io/data/api
+account_link: https://francetravail.io/login
+external_site: https://francetravail.io/data/api
 partners:
   - Pôle emploi
 keywords:
@@ -18,7 +18,7 @@ keywords:
   - Mobilité professionnelle
   - Territoires
 contact_link: support@pole-emploi.io
-doc_tech_external: https://pole-emploi.io/data/api/marche-travail
+doc_tech_external: https://francetravail.io/data/api/marche-travail
 datagouv_uuid:
   - 593156ff88ee38351b503df3
 themes:
