@@ -36,16 +36,32 @@ L'API a pour objectif de simplifier l'accès à l'information sur les emplois, a
 
 ### Données accessibles dans l'API
 
-Le ROME est un bien commun qui évolue régulièrement. Utiliser les API du ROME vous assure d’accéder aux dernières mises à jour des données.
-Le jeu de données de l’API ROME référence l’ensemble des informations concernant le Répertoire Opérationnel des Métiers et des Emplois :
+API ROME 4.0 – Compétences
 
-- Appellations, définition et accès à l’emploi,
-- Conditions d’exercice de l’activité,
-- Activités et compétences de base,
-- Activités et compétences spécifiques,
-- Environnements de travail,
-- Mobilité professionnelle.
+Le jeu de données de l’API ROME 4.0 - Compétences donne accès au référentiel des compétences du répertoire Opérationnel des Métiers et des Emplois classées par :
 
+Domaines, enjeux et objectifs
+Macro-compétences et compétences détaillées
+Savoirs et catégories de savoir
+API ROME 4.0 – Métiers
+
+Le jeu de données de l’API ROME 4.0 - Métiers référence l’ensemble des informations centrées sur les métiers du Répertoire Opérationnel des Métiers et des Emplois :
+
+Appellations, définition et accès à l’emploi
+Compétences mobilisées et compétences clés
+Contextes de travail
+Mobilité professionnelle
+API ROME 4.0 – Contextes de travail
+
+Le jeu de données de l’API ROME 4.0 - Contextes de travail référence les informations concernant les contextes de travail du Répertoire Opérationnel des Métiers et des Emplois organisés en catégories :
+
+Contextes et Catégories de contexte de travail
+API ROME 4.0 – Fiches métiers
+
+Le jeu de données de l’API ROME 4.0 – Fiches métiers fournit les informations utiles à la reconstitution d’une fiche métier du Répertoire Opérationnel des Métiers et des Emplois :
+
+Groupes de compétences mobilisées : les compétences sont classées et ordonnées par enjeu
+Groupes de savoirs : les savoirs sont classés et ordonnés par catégorie de savoir
  
 ### Les modalités d'exposition du ROME
 [Cette page](https://francetravail.io/data/contribuer-rome) propose différentes modalités d’exposition du ROME 4.0 : L'utilisation des API vous permet d'intégrer directement le ROME dans vos applications et vous garantit l'utilisation d'une donnée mise à jour en temps réel. Les 4 API du ROME vous donnent accès aux différents référentiels qui constituent le ROME (emploi, compétences, contexte de travail, fiches métiers).
