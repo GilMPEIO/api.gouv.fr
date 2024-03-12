@@ -1,7 +1,7 @@
 ---
 title: API Informations sur un territoire
 tagline: Accéder à toutes les données clés sur l'emploi pour comprendre un territoire - population, établissements, salariés
-producer: pole-emploi
+producer: France Travail
 category: Public
 is_open: 0 # -1 means API not open
 account_link: https://francetravail.io/login
