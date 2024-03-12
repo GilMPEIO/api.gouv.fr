@@ -1,13 +1,13 @@
 ---
 title: API Répertoire Opérationnel des Métiers et des Emplois
-tagline: Accéder à l'ensemble des informations sur les métiers
-producer: pole-emploi
+tagline: Utiliser les référentiels d’emplois et de compétences
+producer: France Travail
 category: Public
 is_open: 0 # -1 means API not open
-account_link: https://pole-emploi.io/inscription
-external_site: https://pole-emploi.io/data/api
+account_link: https://francetravail.io/inscription
+external_site: https://francetravail.io/data/api
 partners:
-  - Pôle emploi
+  - FRance Travail
 keywords:
   - Travail
   - Emploi
@@ -16,8 +16,8 @@ keywords:
   - ROME
   - AFPA
   - Mobilité professionnelle
-contact_link: support@pole-emploi.io
-doc_tech_external: https://pole-emploi.io/data/api/rome
+contact_link: contact@pole-emploi.io
+doc_tech_external: https://francetravail.io/data/contribuer-rome
 datagouv_uuid:
   - 58da857388ee384902e505f5
 themes:
@@ -26,7 +26,9 @@ visits_2019: 1000
 last_update: 02/08/2021
 ---
 
-Le ROME sert à identifier précisément chaque métier, et comprend plus de 10000 appellations. Il a été créé par Pôle Emploi, et est utilisé par l'ensemble des organismes publics et privés traitant de l'emploi.
+Le ROME (Répertoire Opérationnel des Métiers et des Emplois) est un ensemble de référentiels permettant de décrire les emplois et les compétences.
+La version 4.0 est dynamique, elle sera actualisée tous les trimestres pour témoigner des évolutions du marché de l’emploi. C’est une donnée publique de référence.
+Le ROME facilite la mise en relation entre l’offre et la demande d’emploi et accompagne les choix de mobilités professionnelles.
 
 ### A quoi sert l'API ROME ?
 
@@ -34,6 +36,7 @@ L'API a pour objectif de simplifier l'accès à l'information sur les emplois, a
 
 ### Données accessibles dans l'API
 
+Le ROME est un bien commun qui évolue régulièrement. Utiliser les API du ROME vous assure d’accéder aux dernières mises à jour des données.
 Le jeu de données de l’API ROME référence l’ensemble des informations concernant le Répertoire Opérationnel des Métiers et des Emplois :
 
 - Appellations, définition et accès à l’emploi,
@@ -42,3 +45,9 @@ Le jeu de données de l’API ROME référence l’ensemble des informations con
 - Activités et compétences spécifiques,
 - Environnements de travail,
 - Mobilité professionnelle.
+
+ 
+### Les modalités d'exposition du ROME
+[Cette page](https://francetravail.io/data/contribuer-rome) propose différentes modalités d’exposition du ROME 4.0 : L'utilisation des API vous permet d'intégrer directement le ROME dans vos applications et vous garantit l'utilisation d'une donnée mise à jour en temps réel. Les 4 API du ROME vous donnent accès aux différents référentiels qui constituent le ROME (emploi, compétences, contexte de travail, fiches métiers).
+
+D’autres API de dialogue avec le ROME basées sur l'intelligence artificielle sont également à votre disposition. Si vous souhaitez utiliser les données du ROME sans passer par une API, vous pouvez directement accéder aux fichiers des référentiels ROME en Open Data.
