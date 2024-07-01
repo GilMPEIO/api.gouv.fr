@@ -46,3 +46,7 @@ Le jeu de données de l’API ROME référence l’ensemble des informations con
 - Périodes
 - Activités
 - Nomenclatures
+
+### Informations Complémentaires
+
+La mise à jour est trimestrielle.
